@@ -1,3 +1,3 @@
-FROM gcr.io/cloudshell-images/cloudshell:latest
+FROM gitpod/workspace-full-vnc:branch-pull-168
 
 USER root
